@@ -1,0 +1,7 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+# Preserve the research snapshot byte-for-byte for SHA256 validation.
+data/raw/*.csv -text

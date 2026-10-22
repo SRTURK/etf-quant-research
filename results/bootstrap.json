@@ -1,0 +1,9 @@
+{
+  "test_annualized_arithmetic_excess": 0.031767158409818634,
+  "block_days": 21,
+  "replicates": 2000,
+  "95pct_interval": [
+    -0.04607215197559371,
+    0.11159250598802672
+  ]
+}

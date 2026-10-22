@@ -1,0 +1,6 @@
+PASS: future-price perturbation invariance
+PASS: pre-cutoff NAV invariance
+PASS: matured training labels only
+PASS: long-only unit weights
+PASS: next-close execution timing
+PASS: fee conservation and initial cost

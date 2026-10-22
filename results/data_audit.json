@@ -1,0 +1,14 @@
+{
+  "raw_rows": 5688,
+  "clean_rows": 5313,
+  "clean_first": "2004-11-18",
+  "clean_last": "2025-12-31",
+  "missing_after_common_inception": 0,
+  "max_calendar_gap_days": 5,
+  "sha256": "361efb287116fc8200582c15fcd315bcce2e218fa1e50b416bacc5acebff37b9",
+  "source": "https://raw.githubusercontent.com/manisahni/marketdata/main/daily_adjclose.csv",
+  "retrieved_date": "2026-10-22",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "python": "3.12.14"
+}

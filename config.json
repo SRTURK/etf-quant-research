@@ -1,0 +1,12 @@
+{
+  "universe": ["SPY", "EFA", "EEM", "IEF", "TLT", "GLD", "VNQ"],
+  "defensive": "SHY",
+  "start": "2006-01-01",
+  "end": "2025-12-31",
+  "lookback": 252,
+  "skip": 21,
+  "trend_days": 200,
+  "top_k": 2,
+  "cost_bps": 10,
+  "seed": 20261022
+}
